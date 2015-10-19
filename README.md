@@ -2,7 +2,7 @@
 
 Hey guys, and welcome to your first STI Labs lesson on Introduction to Web Technologies.
 
-##Where you find power point presentations?
+##Where do you find power point presentations?
 Just take a look into presentation folder in the repository.
 
 ##What's your homework?
